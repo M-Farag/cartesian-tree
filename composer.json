@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "mfarag\\cartesian-tree\\":"source"
+            "Mfarag\\CartesianTree\\":"source"
         }
     },
     "require": {
