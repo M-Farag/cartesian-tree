@@ -1,0 +1,20 @@
+{
+    "name": "mfarag/cartesian-tree",
+    "description": "A Laravel package that implements the cartesian algorithm to generate permutations out of a sequence of arrays.",
+    "authors": [
+        {
+            "name": "Mina Farag",
+            "email": "mina.farag@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mfarag\\cartesian-tree\\":"source"
+        }
+    },
+    "require": {
+        "php":">= 5.5.0",
+        "illuminate/support":">= 5.0",
+        "illuminate/database":">= 5.0"
+    }
+}
